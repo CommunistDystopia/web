@@ -1,4 +1,8 @@
-# cdfront
+# Communist Dystopia Website
+
+![alt tag](https://i.imgur.com/3oA2hpv.png)
+
+A **VueJS** app built for the Minecraft Server: Communist Dystopia.
 
 ## Project setup
 ```
